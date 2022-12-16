@@ -1,0 +1,87 @@
+{
+    "4": {
+        "PriceConsumerV3": [],
+        "OnChainNft": [],
+        "OffChainNft": [],
+        "BasicNft": [],
+        "NftMarketplace": []
+    },
+    "5": {
+        "PriceConsumerV3": [
+            "0x0988DeD6c58Ed224B29421049a5672A3ab7EA439"
+        ],
+        "OnChainNft": [
+            "0xA6e8f3d43829D56E3E9e2B7Df3718b4FB568AAa1"
+        ],
+        "OffChainNft": [
+            "0x9DDa5f150DD74D0B2C67faaA5a06f8493674fb0b"
+        ],
+        "BasicNft": [
+            "0xe8a61e5E4b7A0b757E1c535Ac28da57959D100BB"
+        ],
+        "NftMarketplace": [
+            "0x60c4f717eE6D5aF2050a88Bc1e7D036fFeCf5895"
+        ]
+    },
+    "31337": {
+        "OnChainNft": [
+            "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+            "0x0B306BF915C4d645ff596e518fAf3F9669b97016",
+            "0x95401dc811bb5740090279Ba06cfA8fcF6113778",
+            "0x1429859428C0aBc9C2C47C8Ee9FBaf82cFA0F20f"
+        ],
+        "OffChainNft": [
+            "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6",
+            "0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0",
+            "0x9A676e781A523b5d0C0e43731313A708CB607508",
+            "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+            "0x959922bE3CAee4b8Cd9a407cc3ac1C251C2007B1",
+            "0x998abeb3E57409262aE5b751f60747921B33613E",
+            "0xB0D4afd8879eD9F52b28595d31B441D079B2Ca07",
+            "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+        ],
+        "BasicNft": [
+            "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+            "0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82",
+            "0x851356ae760d987E095750cCeb3bC6014560891C",
+            "0xFD471836031dc5108809D173A067e8486B9047A3"
+        ],
+        "NftMarketplace": [
+            "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+            "0x9A676e781A523b5d0C0e43731313A708CB607508",
+            "0xf5059a5D33d5853360D16C683c16e67980206f36",
+            "0xcbEAF3BDe82155F56486Fb5a1072cb8baAf547cc",
+            "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853"
+        ],
+        "PriceConsumerV3": [
+            "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+            "0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0",
+            "0x1613beB3B2C4f22Ee086B2b38C1476A3cE7f78E8",
+            "0xc351628EB244ec633d5f21fBD6621e1a683B1181"
+        ]
+    },
+    "80001": {
+        "PriceConsumerV3": [
+            "0x38df3d1d9115B02eCe19280764C6b1EEB3c3E25D",
+            "0xdCC28e24Cd0Fd802a0350C69be29e25F19c1A332",
+            "0x132B018297df23107601170F77780Dc19B106Db3"
+        ],
+        "BasicNft": [
+            "0x4CE35D4822F4A29c646ff498122a35932e21c9D0",
+            "0xF31d293D6C0A8da019d17877bf1dcDDbb8a0Ee87"
+        ],
+        "OnChainNft": [
+            "0x6deB8b317E3302CF1De0901Ee73dc5dd41807895",
+            "0x8fbE2CfaA4cDC8A8Dba9cA6ccfa72F7E81CFb98c"
+        ],
+        "OffChainNft": [
+            "0x93b4d926Dac2dA49345C0eBC9306A6D0BE77A781",
+            "0x91Ff98845B82e3745Ec1F24Ad5cEc84eA0Da28C9"
+        ],
+        "NftMarketplace": [
+            "0xa36E207AcCB7c612D597b0b94c7F960ED317e48b",
+            "0xE29103F85C77D3Ab1b2b8B5f3Fe74C6D55089278",
+            "0xef125679f94076952cf00843a999467f55F28e26"
+        ]
+    }
+}

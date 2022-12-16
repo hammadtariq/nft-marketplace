@@ -1,0 +1,41 @@
+[
+    {
+        "type": "constructor",
+        "payable": false,
+        "inputs": [
+            {
+                "type": "address",
+                "name": "_priceFeed"
+            }
+        ]
+    },
+    {
+        "type": "function",
+        "name": "getLatestPrice",
+        "constant": true,
+        "stateMutability": "view",
+        "payable": false,
+        "inputs": [],
+        "outputs": [
+            {
+                "type": "int256"
+            },
+            {
+                "type": "uint8"
+            }
+        ]
+    },
+    {
+        "type": "function",
+        "name": "getPriceFeed",
+        "constant": true,
+        "stateMutability": "view",
+        "payable": false,
+        "inputs": [],
+        "outputs": [
+            {
+                "type": "address"
+            }
+        ]
+    }
+]
